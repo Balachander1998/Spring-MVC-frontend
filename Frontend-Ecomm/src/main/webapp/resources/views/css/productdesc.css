@@ -1,0 +1,19 @@
+.product{
+    font-family: cursive;
+    border: 2px solid firebrick;
+    width: 50%;
+    height: 50rem;
+
+}
+.border{
+    border: 2px solid firebrick !important;
+}
+.card-img-top{
+    width: 40%;
+}
+@media only screen and (max-width:533px){
+    .product{
+      height: 50rem;
+
+    }
+}

@@ -1,0 +1,12 @@
+#navp{
+    justify-content: flex-end;
+}
+.nav-item{
+    font-size: 20px;
+}
+.nav-link{
+    color: cyan !important;
+}
+.name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
